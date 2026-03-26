@@ -9,7 +9,7 @@
 ╚══════╝╚═╝     ╚══════╝ ╚═════╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
 ```
 
-<img width="1024" height="1024" alt="Eagle" src="https://github.com/user-attachments/assets/86fc8d27-9903-480f-97ba-1712f40b73b6" />
+<img width="512" height="512" alt="Eagle" src="https://github.com/user-attachments/assets/86fc8d27-9903-480f-97ba-1712f40b73b6" />
 
 **See Everything. Miss Nothing.**
 
