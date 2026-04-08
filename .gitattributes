@@ -1,3 +1,2 @@
+*.json linguist-language=JSON
 *.md linguist-language=Markdown
-*.md linguist-detectable=true
-*.md linguist-documentation=false
