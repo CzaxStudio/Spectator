@@ -27,11 +27,11 @@ Feature of making GUI tools is available only for Windows for now. (CLI and TUI 
 
 ---
 
-## Official Website --> https://spectatorcyber.pages.dev/
+## Official Website --> [Website](https://spectatorcyber.pages.dev/)
 
-## Learn Spectator --> https://github.com/CzaxStudio/SpectatorDocs/
+## Learn Spectator --> [Docs](https://github.com/CzaxStudio/SpectatorDocs/)
 
-## Example --> https://github.com/CzaxStudio/Spectator-example/
+## Example --> [Example](https://github.com/CzaxStudio/Spectator-example/)
 
 ## What is Spectator?
 
